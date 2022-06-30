@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "project": "guildai",
+    "project_url": "http://guild.ai/",
+    "repo": "https://github.com/guildai/guildai",
+    "branches": ["main"],
+    "dvcs": "git",
+    "environment_type": "virtualenv"
+    }
