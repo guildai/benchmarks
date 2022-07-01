@@ -5,5 +5,10 @@
     "repo": "https://github.com/guildai/guildai",
     "branches": ["main"],
     "dvcs": "git",
-    "environment_type": "virtualenv"
+    "environment_type": "virtualenv",
+    "matrix": {
+      "req": {
+        "tensorflow": []
+      }
     }
+}
